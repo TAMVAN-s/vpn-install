@@ -16,7 +16,7 @@ Simple PPTP, L2TP/IPsec, OpenVPN installers for fast, user-friendly deployment.
 ## Installation
 Update  : `apt-get update -y && apt-get install git -y`
 
-Download: `git clone --depth=1 https://github.com/bedefaced/vpn-install.git`
+Download: `git clone --depth=1 https://github.com/TAMVAN-s/vpn-install.git`
 
 And then some of (under *root* or using *sudo*):
 * `vpn-install/pptp/install.sh`
